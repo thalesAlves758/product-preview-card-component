@@ -1,0 +1,28 @@
+:root {
+    --color-background: hsl(30, 38%, 92%);
+    --color-card-background: hsl(0, 0%, 100%);
+    --color-button-background: hsl(158, 36%, 37%);
+    --color-button-active-background: hsl(212, 21%, 14%);
+    --color-title-font: hsl(0, 0%, 0%);
+    --color-paragraph-font: hsl(228, 12%, 48%);
+
+    font-size: 14px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px 0;
+    background-color: var(--color-background);
+}
