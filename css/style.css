@@ -125,3 +125,12 @@ body {
     background-color: hsl(158, 36%, 16%);
     transition: .3s;
 }
+
+.attribution {
+    font-weight: 700;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: var(--color-primary);
+}
