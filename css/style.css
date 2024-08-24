@@ -54,6 +54,7 @@ body {
 }
 
 .product-image-mobile {
+    border-radius: 0.9rem 0.9rem 0 0;
     display: none;
 }
 
@@ -133,4 +134,47 @@ body {
 .attribution a {
     text-decoration: none;
     color: var(--color-primary);
+}
+
+@media (max-width: 590px) {
+    .container {
+        padding: 10px;
+    }
+
+    .main-content {
+        flex-basis: 550px;
+    }
+
+    .card-container {
+        grid-template-columns: 1fr;
+        width: 100%;
+        max-width: 310px;
+        height: auto;
+    }
+
+    .product-image-desktop {
+        display: none;
+    }
+
+    .card-content {
+        padding: 1.4rem;
+        gap: 1.1rem;
+    }
+
+    .product-image-mobile {
+        display: initial;
+    }
+
+    .product-name {
+        font-size: 1.8rem;
+        line-height: 1.8rem;
+    }
+
+    .product-description {
+        line-height: 1.4rem;
+    }
+
+    .product-price-with-discount {
+        font-size: 1.7rem;
+    }
 }
