@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/thalesAlves758/blob/master/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/thalesAlves758/product-preview-card-component/blob/master/README.en.md)
 
 # Frontend Mentor - Product preview card component
 
