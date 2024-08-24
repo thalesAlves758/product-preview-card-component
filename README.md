@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/thalesAlves758/blob/master/README.en.md)
+
 # Frontend Mentor - Product preview card component
 
 Esta é uma solução para o desafio [Product preview card component no Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação, construindo projetos realistas.
